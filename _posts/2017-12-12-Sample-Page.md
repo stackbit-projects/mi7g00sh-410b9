@@ -1,5 +1,5 @@
 ---
-title: ''
+title: Article 2
 published: true
 ---
 
